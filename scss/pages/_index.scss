@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+.imgbur{
+    font-size: 1rem;
+}
+    .p1{
+        color: aliceblue;
+    }
+
+    body{
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+    .navbar {
+        display: flex;
+        margin-right: 10px;
+        align-items: center;
+        a {
+            display: block;
+            padding: 20px 20px;
+            color: rgb(134, 18, 18);
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 20px;
+            &:hover {
+                background: #3f3f3f;
+            }
+        }
+    }
+
+    .index-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+        background: url(../img/75572.jpg) no-repeat center;
+        background-size: cover;
+        
+    }    
+
+    
+    
+    .olis {
+        display: flex;
+        padding-top: 10%;
+        padding-left: 0%;
+        width: 1cm;
+    }
+    html {
+        scroll-behavior: smooth;
+    }
+    .titles {
+        margin-bottom: 40px;
+        font-size: 60px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: rgb(7, 6, 6);
+    }
+    .title {
+        margin-bottom: 40px;
+        font-size: 60px;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: rgb(255, 255, 255);
+    }
+    p {
+        margin-bottom: 40px;
+        font-size: 18px;
+        color: rgb(4, 3, 3);
+        padding: 0 100px;
+    }
+    .p1{
+        color: #171717;
+    }
+
+    .p2{
+        color: aliceblue;
+    }
+    .box-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+        
+    }
+    .imgbox {
+        margin-left: 100px;
+    }    
+    .content {
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contact {
+        padding-top: 20px;
+        background: #171717;
+        padding-bottom: 0;
+    }
+    
+    @media (max-width: 768px) {
+        .title {
+            margin-bottom: 0;
+            font-size: 40px;
+        }
+        .sau {
+            height: 100vh;
+        }
+        .navbar {
+            display: flex;
+        }
+    }
+    

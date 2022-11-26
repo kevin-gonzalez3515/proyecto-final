@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://www.ronnie.com.ar/nosotros -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!--<base href="/">--><base href=".">
+		<title>Nosotros - Ronnie Burger</title>
+		
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="https://www.ronnie.com.ar/resources/img/favicon.png">
+		<link rel="stylesheet" href="./masa_files/bootstrap.min.css">
+		<link href="./masa_files/style.min.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="./masa_files/glider.css">
+		<link rel="stylesheet" href="./masa_files/floating-wpp.css">
+	</head>
+	<body>
+		<div id="myButton" class="floating-wpp" style="left: auto; right: 15px;"><div class="floating-wpp-button" style="width: 72px; height: 72px; background-color: rgb(37, 211, 102);"><img src="./masa_files/whatsapp.svg"><div class="floating-wpp-button-image"></div></div></div>
+		<nav class="navbar navbar-expand-lg navbar-light">
+	<div class="d-lg-none d-flex row m-0 align-items-between w-100">
+		<div class="col-3 p-0">
+			<button class="navbar-toggler" type="button" id="btn-toggle-header" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+		</div>
+		<div class="col-4 ml-auto px-0 pt-1">
+			<a href="https://www.ronnie.com.ar/"><img src="./masa_files/logo-white.svg" class="w-100"></a>
+		</div>
+	</div>
+	
+	<div class="collapse navbar-collapse container d-lg-block d-none">
+		<ul class="navbar-nav ml-auto mt-2 mt-lg-0 col-lg-4 justify-content-between">
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link" href="https://www.ronnie.com.ar/">HOME</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link" href="https://www.ronnie.com.ar/promos">PROMOS</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link" href="https://www.ronnie.com.ar/menu">MENU</a>
+			</li>
+		</ul>
+		<div class="col-lg-4 text-center">
+			<a href="https://www.ronnie.com.ar/">
+				<img src="./masa_files/logo.svg" class="w-50 mx-auto">
+			</a>
+		</div>
+		<ul class="navbar-nav ml-auto mt-2 mt-lg-0 col-lg-4 justify-content-between p-0">
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link" href="https://www.ronnie.com.ar/galeria">GALERÍA</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link" href="https://www.ronnie.com.ar/nosotros">NOSOTROS</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link ctm-nav-link btn-yellow px-3" href="https://www.rappi.com.ar/restaurantes/ronnie-burger" target="_blank">DELIVERY <i class="icon icon-lightning mx-2"></i></a>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+<div id="responsive-header" class="header-hidden">
+	<a id="close" class="pr-3" href="https://www.ronnie.com.ar/#">× </a>
+	<div class="row col-9 mx-auto pt-5">
+		<div class="col-8 py-4 mx-auto">
+			<a href="https://www.ronnie.com.ar/"><img src="./masa_files/logo-white.svg" class="w-100"></a>
+		</div>
+		<div class="col-12">
+			<ul>
+				<li class="py-3"><a href="https://www.ronnie.com.ar/promos">PROMOS</a></li>
+				<li class="py-3"><a href="https://www.ronnie.com.ar/menu">MENÚ</a></li>
+				<li class="py-3"><a href="https://www.ronnie.com.ar/galeria">GALERÍA</a></li>
+				<li class="py-3"><a href="https://www.ronnie.com.ar/nosotros">NOSOTROS</a></li>
+			</ul>
+		</div>
+		<div class="col-12">
+			<a href="https://www.rappi.com.ar/restaurantes/ronnie-burger" target="_blank"><button type="button" class="btn btn-block btn-light pl-4">DELIVERY <i class="icon icon-lightning-dark mx-2"></i></button></a>
+		</div>
+	</div>
+</div>		<section id="nosotros-section-1" class="vh-100 bg-dark-4">
+			<div class="container pt-lg-5">
+				<div class="row m-0">
+					<div class="col-md-5 pb-lg-0 pb-5">
+						<h1 class="font-1 text-light"><span>SOBRE <br> NOSOTROS</span></h1>
+					</div>
+					<div class="col-md-7 py-lg-0 py-3">
+						<img src="./masa_files/galeria-1.jpg" class="img-fluid">
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section id="nosotros-section-2" class="pt-lg-5 pt-4">
+			<div class="col-lg-6 mx-auto text-center py-lg-5">
+				<h2><b>SOBRE NOSOTROS</b></h2>
+				<p>Somos una hamburguesería con ganas de hacer las cosas de manera diferente. En Ronnie vas a encontrar lugares descontracturados, buena música, buena onda y hamburguesas increíbles. Nuestras cocinas están siempre a la vista para que puedas ver el proceso de todo lo que comés. ¡Queremos que te sientas como en tu casa! </p>
+				<p>Tenemos un fuerte compromiso con las comunidades que nos rodean, impulsamos productores y artistas locales. También nos involucramos con nuestro medioambiente, y estamos en camino a reducir a cero el uso de plástico. </p>
+				<p class="mb-0">Esperamos que disfrutes la experiencia de Ronnie, tanto en salón como en delivery, al igual que nosotros disfrutamos de armar este emprendimiento entre amigos. </p>
+			</div>
+			<div class="row m-0 py-4">
+				<div class="glider-contain">
+					<div class="glider draggable">
+						
+						
+						
+						
+						
+						
+					<div class="glider-track" style="width: 1800px;"><div class="glider-slide active center visible" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-01.jpg"></div><div class="glider-slide visible right-1" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-02.jpg"></div><div class="glider-slide visible right-2" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-03.jpg"></div><div class="glider-slide visible right-3" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-04.jpg"></div><div class="glider-slide visible right-4" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-05.jpg"></div><div class="glider-slide visible right-5" style="height: auto; width: 300px;"><img alt="Ronnie" src="./masa_files/nosotros-06.jpg"></div></div></div>
+					<div class="text-yellow font-1 glider-arrows text-center pt-4">
+						<button class="glider-prev">←</button>
+						<span class="px-lg-2">DESLIZÁ</span>
+						<button class="glider-next">→</button>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<section id="section-6" class="py-lg-5 py-4 bg-yellow">
+			<div class="container py-lg-5 py-4">
+				<div class="row m-0">
+					<div class="row m-0 col-lg-12 d-flex justify-content-around">
+						<div class="mb-5 d-lg-none d-block col-12 text-center">
+							<h3><span>SEGUINOS EN REDES</span></h3>
+						</div>
+						<div class="mb-5 d-lg-block d-none">
+							<h3><span>SEGUINOS EN REDES</span></h3>
+						</div>
+						<a href="https://www.facebook.com/enjoyRonnie/" target="_blank" class="font-1"><i class="icon icon-lg icon-facebook-dark"></i> <span class="pl-lg-2"></span></a>
+						<a href="https://www.instagram.com/ronnieburgers/" target="_blank" class="font-1"><i class="icon icon-lg icon-instagram-dark"></i> <span class="pl-lg-2"></span></a>
+						<a href="https://open.spotify.com/user/ronniehamburgueseria/playlist/1ts191g9mg97frdXC0GN9l?si=5x6qfeDFSGyM7hFYQscFNg" target="_blank" class="font-1"><i class="icon icon-lg icon-spotify-dark"></i> <span class="pl-lg-2"></span></a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+	<footer class="footer py-5">
+	<div class="container">
+		<div class="row m-0 pb-lg-5 pb-3">
+			<div class="col-lg-3 col-8 mx-auto pb-lg-3 pb-5">
+				<img src="./masa_files/logo-footer.png" class="col-lg-6 col-md-3 p-0">
+			</div>
+			<div class="col-lg-3 col-6 pb-3">
+				<span class="footer-header">Pichincha</span>
+				<ul class="footer-list pt-2 pb-3">
+					<li>Santiago y Jujuy,<br>Rosario</li>
+				</ul>
+				<span class="footer-header">Puerto norte</span>
+				<ul class="footer-list pt-2 pb-lg-4 pb-3">
+					<li>Carballo 178,<br>Rosario</li>
+				</ul>
+				<span class="footer-header">Funes</span>
+				<ul class="footer-list pt-2 pb-3">
+					<li>Córdoba 2231,<br>Rosario</li>
+				</ul>
+			</div>
+			<div class="col-lg-3 col-6 pb-3">
+				<span class="footer-header">Nuestra web</span>
+				<ul class="footer-list pt-2">
+					<li><a href="https://www.ronnie.com.ar/promos">Promociones</a></li>
+					<li><a href="https://www.ronnie.com.ar/menu">Nuestra carta</a></li>
+					<li><a href="https://www.ronnie.com.ar/nosotros">Nosotros</a></li>
+					<li><a href="https://www.ronnie.com.ar/galeria">Galería</a></li>
+					<!--li><a href="/contacto">Contacto</a></li-->
+				</ul>		
+			</div>
+			<div class="col-lg-3 col-6 pb-3">
+				<span class="footer-header">Sumate</span>
+				<ul class="footer-list pt-2">
+					<li>Si querés formar parte del #TEAMRONNIE, envia tu CV a gente@grupo83.com.ar</li>
+				</ul>		
+			</div>
+		</div>
+		<div class="row col-lg-9 offset-lg-3 p-lg-0 footer-bottom pt-lg-5 pt-3">
+			<div class="col-lg-3 col-6 pb-3">
+				Ronnie 2021 ©
+			</div>
+			<div class="col-lg-3 col-6 pb-3">
+				Todos los derechos reservados
+			</div>
+			<div class="col-lg-3 col-6 pb-3">
+				Seguinos en redes sociales
+			</div>
+			<div class="col-lg-3 col-6">
+				<a href="https://www.facebook.com/enjoyRonnie/" target="_blank"><i class="icon icon-facebook mr-3"></i></a>
+				<a href="https://www.instagram.com/ronnieburgers/" target="_blank"><i class="icon icon-instagram mr-3"></i></a>
+				<a href="https://open.spotify.com/user/ronniehamburgueseria/playlist/1ts191g9mg97frdXC0GN9l?si=5x6qfeDFSGyM7hFYQscFNg" target="_blank"><i class="icon icon-spotify mr-3"></i></a>
+			</div>
+		</div>
+	</div>
+</footer>		<script src="./masa_files/jquery.min.js.descarga"></script>
+		<script src="./masa_files/glider.js.descarga"></script>
+		<script src="./masa_files/popper.min.js.descarga"></script>
+		<script src="./masa_files/bootstrap.min.js.descarga"></script>
+		<script type="text/javascript" src="./masa_files/floating-wpp.js.descarga"></script>
+		<script type="text/javascript">
+			$(function () {
+				$('#myButton').floatingWhatsApp({
+					phone: '5493415880366',
+					position: 'right',
+					popupMessage: 'Comunicate con nosotros',
+					
+					showPopup: false,
+					showOnIE: false,
+					headerTitle: 'Ronnie Burgers',
+					headerColor: '#25d366',
+					backgroundColor: '#25d366',
+					buttonImage: '<img src="resources/img/whatsapp.svg" />'
+				});
+			});
+		</script>
+	
+</body></html>
